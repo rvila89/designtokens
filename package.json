@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "build": "style-dictionary build"
+    "build": "style-dictionary build",
+    "transform-tokens": "node ./transformTokens.js"
   },
   "repository": {
     "type": "git",
