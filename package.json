@@ -19,6 +19,7 @@
   "homepage": "https://github.com/michaelmang/style-dictionary#readme",
   "dependencies": {
     "@ctrl/tinycolor": "^3.6.0",
+    "change-case": "^4.1.2",
     "style-dictionary": "^2.10.2"
   },
   "devDependencies": {
